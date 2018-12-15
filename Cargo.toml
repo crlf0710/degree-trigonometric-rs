@@ -1,0 +1,9 @@
+[package]
+name = "degree_trigonometric"
+version = "0.1.0"
+authors = ["CrLF0710 <crlf0710@gmail.com>"]
+license = "Apache-2.0/MIT"
+description = "Trigonometric functions in degree"
+repository = "https://github.com/crlf0710/degree-trigonometric-rs"
+
+[dependencies]
